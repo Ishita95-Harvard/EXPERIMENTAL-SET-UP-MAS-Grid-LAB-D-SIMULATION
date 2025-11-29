@@ -274,7 +274,7 @@ docker run -p 8501:8501 ai-energy-mas`
 ## 📜Citation(IEEE)
 
 If you use this code in your research, please cite the paper:
-> Bahamnia, I. (2025). "Hybrid Forecasting and MAS Optimization for Smart Grids", *Elsevier Energy and AI*.
+> 
 
 
 ## 🔗 Useful Links
