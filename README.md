@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 1.🌱 [AI-Powered Energy Efficiency and Climate-Responsive Forecasting System]( https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization/tree/main)
+
 A research framework integrating **AI-based forecasting**, **anomaly detection**, and **multi-agent optimization** to enhance energy efficiency in smart grids, compliant with **ISO 50001** and **UN SDG 7**.
 - ✈️ Powered by **Google Cloud** or ✈️ **CI/CD** Ready ✈️ Fast-track your smart grid **simulation **✈️ Launch-ready AI **forecasting modules**
 - Focuses on integrating multiple **AI models**(LSTM, Prophet, ARIMA) with **GridLAB-D simulation, agent coordination, a Streamlit dashboard, optimization scripts, and deployment configurations (Docker, Azure, CI/CD templates)**.
